@@ -2,6 +2,12 @@
 
 # SEU-Auto-Health-Declaration
 
+自动请假脚本： [东南大学自动请假](https://github.com/zgzhengSEU/SEU_Auto_Leave_backup)
+
+自动入校脚本： [东南大学自动入校申请](https://github.com/zgzhengSEU/SEU_Auto_Admission_BackUp)
+
+## 使用步骤
+
 1. 先fork本仓库
 
 ![image-20211202101553472](https://cdn.jsdelivr.net/gh/zgzhengSEU/imagebed/Image/202112021016567.png)
